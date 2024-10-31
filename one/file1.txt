@@ -1,0 +1,5 @@
+this is my file1
+2024 footer
+git diff changes
+this is greenmode fix
+this is purplemode fix master
